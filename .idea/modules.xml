@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/controlDeVersions.iml" filepath="$PROJECT_DIR$/.idea/controlDeVersions.iml" />
       <module fileurl="file://$PROJECT_DIR$/holamundo/holamundo.iml" filepath="$PROJECT_DIR$/holamundo/holamundo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/controlDeVersions2.iml" filepath="$PROJECT_DIR$/controlDeVersions2.iml" />
+>>>>>>> f8ba3301de30e0605fb96c2bd8df4f7c4202040b
     </modules>
   </component>
 </project>
